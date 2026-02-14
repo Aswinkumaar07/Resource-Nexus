@@ -1,0 +1,8 @@
+{
+  "name": "Resource Nexus",
+  "description": "An eco-tech platform for waste material identification, smart upcycling, and sustainable trading.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
